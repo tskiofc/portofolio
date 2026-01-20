@@ -2,8 +2,8 @@ export const Projects = [
   {
     id: 1,
     name: 'Portofolio',
-    slug: 'sgcid',
-    img: 'sgcid',
+    slug: 'zephpay',
+    img: 'zephpay',
     demo: 'https://zephpay.site',
     sourceCode: 'https://zephpay.site',
     description:
@@ -12,8 +12,8 @@ export const Projects = [
   {
     id: 2,
     name: 'Baileys ( Modification )',
-    slug: 'coming-soon-project',
-    img: 'https://raw.githubusercontent.com/z4phdev/client/refs/heads/main/thumbnail.png',
+    slug: 'baileys',
+    img: 'baileys',
     demo: 'https://github.com/kiuur/baileys',
     sourceCode: 'https://github.com/kiuur/baileys',
     description:
