@@ -1,62 +1,22 @@
 export const Projects = [
   {
     id: 1,
-    name: 'Website Gabut',
+    name: 'Portofolio',
     slug: 'sgcid',
     img: 'sgcid',
-    demo: 'https://menyala.vercel.app',
-    sourceCode: 'https://menyala.vercel.app',
+    demo: 'https://zephpay.site',
+    sourceCode: 'https://zephpay.site',
     description:
-      'Sebuah Website Gabut Yang Fi penuhi Kata Kata (quotes) para creator Bot WhatsApp !!',
+      'website portofolio yang menampilkan payment gateway dari aplikasi OrderKuota yang berfungsi untuk meng-generate QRIS dinamis sebagai metode pembayaran online.',
   },
   {
-    id: 3,
-    name: 'Coming Soon Project',
+    id: 2,
+    name: 'Baileys Bot WhatsApp ( Modification )',
     slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
+    img: 'https://raw.githubusercontent.com/z4phdev/client/refs/heads/main/thumbnail.png',
+    demo: 'https://github.com/kiuur/baileys',
+    sourceCode: 'https://github.com/kiuur/baileys',
     description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 3,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 4,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 5,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 6,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
+      'Baileys mod adalah versi modifikasi (fork) dari library Baileys, yaitu library Node.js yang digunakan untuk menghubungkan aplikasi atau bot ke WhatsApp Web API (unofficial).',
   },
 ];
