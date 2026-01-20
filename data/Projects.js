@@ -11,7 +11,7 @@ export const Projects = [
   },
   {
     id: 2,
-    name: 'Baileys Bot WhatsApp ( Modification )',
+    name: 'Baileys ( Modification )',
     slug: 'coming-soon-project',
     img: 'https://raw.githubusercontent.com/z4phdev/client/refs/heads/main/thumbnail.png',
     demo: 'https://github.com/kiuur/baileys',
