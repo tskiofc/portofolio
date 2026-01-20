@@ -26,7 +26,7 @@ const About = () => {
 
         <motion.div {...ContentAnimation} className="relative order-1 my-10 w-3/4 text-justify md:order-2 md:my-0 md:w-1/4">
           <p className="text-md font-light text-primary-light">
-            {`Hello! My name is KyuuRzy, you can call me Kyuu, Kyy, iky or whatever you want. I'm a Front-end Developer located in South Sulawesi, Indonesia. As a Front-end Develover I used to code websites from stratch. I love to create simple yet beautiful websites with great user experience.`}
+            {`Hello! My name is KyuuRzy, you can call me Kikyy, or whatever. I’m a Backend Developer from South Sulawesi, Indonesia. I usually handle backend things, like APIs, databases, and server logic. I code stuff from scratch when needed, make sure everything works, scales well, and doesn’t break for no reason. I prefer simple solutions, clean code, and systems that just work without too much drama.`}
           </p>
         </motion.div>
       </section>
